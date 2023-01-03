@@ -18,6 +18,7 @@ For this project, you only need to provide the output pins you will use.
 gpio.setOutput(pin1, pin2 ... pin4); // max. 4 outputs
 ~~~~
 
+
 ### Features
 
 - Real-time update of GPIO pin state.
